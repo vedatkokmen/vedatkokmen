@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on to land a job as Developer.
-- 🌱 I’m currently learning MERN stack, React Native etc.
-- 🤔 I’m looking for help with JavaScript
+- 🌱 I’m currently working with React and NextJs.
+- 🤔 I’m looking for help with JavaScript.
 - 💬 Ask me about anything!
 - 📫 How to reach me: vedatkoekmen@gmail.com
 - 😄 Pronouns: Developer, Translator, Proofreader
