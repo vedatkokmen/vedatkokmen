@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working with React and ASP.NET.
 - 💬 Ask me about anything!
 - 📫 How to reach me: vedatkoekmen@gmail.com
-- 😄 Pronouns: Developer, Translator, Proofreader
